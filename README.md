@@ -73,13 +73,13 @@ Corporate-Data-Analyzer
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Corporate-Data-Analyzer/dashboard_preview.png)
 
 ---
 
 ## Analytical Report Preview
 
-![Report Preview](report_preview.png)
+![Report Preview](Corporate-Data-Analyzer/report_preview.png)
 
 ---
 
@@ -87,19 +87,19 @@ Corporate-Data-Analyzer
 
 ### Column Chart
 
-![Column Chart](charts/column_chart.png)
+![Column Chart](Corporate-Data-Analyzer/charts/column_chart.png)
 
 ### Bar Chart
 
-![Bar Chart](charts/bar_chart.png)
+![Bar Chart](Corporate-Data-Analyzer/charts/bar_chart.png)
 
 ### Line Chart
 
-![Line Chart](charts/line_chart.png)
+![Line Chart](Corporate-Data-Analyzer/charts/line_chart.png)
 
 ### Pie Chart
 
-![Pie Chart](charts/pie_chart.png)
+![Pie Chart](Corporate-Data-Analyzer/charts/pie_chart.png)
 
 ---
 

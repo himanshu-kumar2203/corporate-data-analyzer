@@ -57,8 +57,8 @@ Corporate-Data-Analyzer
 │   └── pie_chart.png
 │
 ├── sample_data
-│   ├── Raw_Sales_Data.csv
-│   └── Raw_Sales_Data.xlsx
+│   ├── raw_sales_data.csv
+│   └── raw_sales_data.xlsx
 │
 ├── corporate_data_analyzer.py
 ├── dashboard_preview.png
